@@ -1,4 +1,4 @@
-# OnSite-Mine-unstructed-benchmark
+# OnSite-unstructured-road-benchmark
 
 ## Preparation:
 
